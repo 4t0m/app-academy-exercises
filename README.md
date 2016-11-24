@@ -1,4 +1,4 @@
-# Exercises
+# App Academy Exercises
 
 ### Week 1
 + w1d1: Enumerables Exercises
